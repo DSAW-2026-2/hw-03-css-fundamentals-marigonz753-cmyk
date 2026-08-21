@@ -1,3 +1,6 @@
+Name: Mariana Gonzalez
+Link: https://dsaw-2026-2.github.io/hw-03-css-fundamentals-marigonz753-cmyk/
+
 # HW03 — CSS Fundamentals
 
 wawawwa
